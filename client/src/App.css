@@ -1,0 +1,6 @@
+.app{
+  display: grid;
+  place-items: center;
+  height: 10ovh;
+  background-color: #dadbd3;
+}
